@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 ### 📄 Резюме
 
 Я активно ищу работу.
-Мое резюме можно просмотреть [здесь](https://drive.google.com/file/d/1G-LRNX8GDwyj_Bful3M_6VcAg7Uu_Siz/view?usp=sharing).
+Мое резюме можно просмотреть [здесь](https://drive.google.com/file/d/16u29jqyumy6myFcYpfvSBFoZ4RfYr26o/view?usp=sharing).
 
