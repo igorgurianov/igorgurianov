@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ### 📫 Как со мной связаться:
 
 - Email: igor.gurianov@inbox.ru
-- Telegram: [Telegram](https://t.me/@igorgurianov)
+- Telegram: [@igorgurianov](https://t.me/igorgurianov)
 
 ### 📄 Резюме
 
